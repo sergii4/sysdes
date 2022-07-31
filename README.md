@@ -9,7 +9,10 @@ Data is at the center of many challenges in system design today. Difficult issue
 
 ### Replication, Partitioning
 
-Part II. Distributed Data(Replication, Partitioning) of the book has a good match with [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about) course from MongoDB University with well-illustrated lectures and hands-on labs
+Part II. Distributed Data(Replication, Partitioning) of the book has a good match with [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about) course from MongoDB University with well-illustrated lectures and hands-on labs on topic such as:
+- leader-based replication
+- asynchronius replication
+- replication log
 
 
 

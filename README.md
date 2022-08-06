@@ -17,3 +17,4 @@ Part II. Distributed Data(Replication, Partitioning) of the book has a good matc
 partitioning(sharding) topics:
 - sharding architecture (request routing)
 - shard keys (sharding by key range vs hashed shard keys)
+- rebalancing shards

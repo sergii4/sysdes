@@ -9,10 +9,11 @@ Data is at the center of many challenges in system design today. Difficult issue
 
 ### Replication, Partitioning
 
-Part II. Distributed Data(Replication, Partitioning) of the book has a good match with [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about) course from MongoDB University with well-illustrated lectures and hands-on labs on topic such as:
+Part II. Distributed Data(Replication, Partitioning) of the book has a good match with [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about) course from MongoDB University with well-illustrated lectures and hands-on labs on replication topics such as:
 - leader-based replication
 - asynchronous replication
 - replication log
 
-
-
+partitioning(sharding) topics:
+- sharding architecture (request routing)
+- shard keys (sharding by key range vs hashed shard keys)
